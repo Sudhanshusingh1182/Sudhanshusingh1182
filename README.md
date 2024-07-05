@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshusingh1182&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshusingh1182" /> </p>
 
-- 🌱 I’m currently learning **React , Backend Web Development**
+- 🌱 I’m currently learning **React ,Data structures and Algorithm , Competitive Programming algorithms and  Backend Web Development**
 
 - 💬 Ask me about **react , frontend development , backend development ,MERN stack**
 
